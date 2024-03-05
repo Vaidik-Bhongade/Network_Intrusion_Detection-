@@ -12,6 +12,8 @@ Upon conducting a thorough analysis of recent research trends in anomaly detecti
 - Alert Generation: Generates alerts and notifications for detected threats, enabling prompt investigation and response by security personnel.
 - Scalability: Designed to handle large volumes of network traffic and adapt to evolving network environments.
 - Customization: Allows for customization of detection rules, algorithms, and thresholds based on specific network requirements and security policies.
+- Model Accuracy: ![image](https://github.com/Vaidik-Bhongade/Network_Intrusion_Detection_System/assets/160979392/7f2cc81a-08a0-4ddd-a45d-8a746e535fa8)
+ 
 
 # ProblemStatment
 
